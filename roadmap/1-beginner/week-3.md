@@ -32,8 +32,8 @@
       <strong>🖌 ساخت UI ساده:</strong>
       <ul>
         <li>ساخت اولین Composable با <code>@Composable</code></li>
-        <li>نمایش متن با <code>Text()</code></li>
-        <li>اضافه کردن دکمه با <code>Button()</code> و مدیریت رویداد کلیک</li>
+        <li>نمایش متن با <code>Text</code></li>
+        <li>اضافه کردن دکمه با <code>Button</code> و مدیریت رویداد کلیک</li>
       </ul>
     </li>
     <br>
@@ -58,7 +58,7 @@
       <strong>📜 Lazy Lists:</strong>
       <ul>
         <li>تفاوت <code>Column</code> با <code>LazyColumn</code> (Performance و Recomposition)</li>
-        <li>استفاده از <code>items{}</code> و <code>item{}</code> در <code>LazyColumn</code></li>
+        <li>استفاده از <code>items</code> و <code>item</code> در <code>LazyColumn</code></li>
         <li>اضافه کردن جداکننده (Divider) یا فاصله بین آیتم‌ها</li>
       </ul>
     </li>
