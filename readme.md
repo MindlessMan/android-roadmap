@@ -24,7 +24,7 @@
 ## 📚 سطوح یادگیری:
 
 - [👶 سطح مبتدی](./roadmap/1-beginner/intro.md)
-- [🧠 سطح متوسط](./roadmap/2-intermediate/)
+- [🧠 سطح متوسط](./roadmap/2-intermediate/intro.md)
 - [🚀 سطح پیشرفته](./roadmap/3-advanced/)
 
 </div>
